@@ -14,7 +14,7 @@ I am a Computer Science and Engineering student at Chittagong University of Engi
 
 ---
 
-## 🚀 Recent Projects
+##  Recent Projects
 
 *   **NextRead:** A full-stack digital bookstore and productivity platform built using Next.js and MongoDB.
 *   **PetBuddy:** A dedicated web application or service designed around pet care coordination and management.
