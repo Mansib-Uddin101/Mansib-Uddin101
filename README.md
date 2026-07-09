@@ -1,5 +1,3 @@
-# Hi, I'm Mansib Uddin
-
 <img src="https://i.ibb.co/603Y1CvQ/github-header-banner-1.png" alt="Professional Tech Banner" width="100%" />
 
 ### Full Stack Web Developer
